@@ -1,0 +1,12 @@
+.claude/
+
+runs/**
+!runs/
+!runs/manual_debug/
+!runs/manual_debug/**
+!runs/.gitkeep
+
+*.asv
+*.m~
+slprj/
+*.autosave

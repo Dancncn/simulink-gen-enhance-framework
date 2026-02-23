@@ -1,0 +1,12 @@
+[2026-02-23 14:58:27] started: run_verify begin
+[2026-02-23 14:58:27] resolve_paths: begin
+[2026-02-23 14:58:27] resolve_paths: ok
+[2026-02-23 14:58:27] generate: begin
+[2026-02-23 14:58:30] generate: ok model=E:\PROJECT2\simulink-gen\runs\manual_debug\model.slx
+[2026-02-23 14:58:30] static: begin
+[2026-02-23 14:58:30] static: ok
+[2026-02-23 14:58:30] sim: begin
+[2026-02-23 14:58:32] sim: ok y_len=52
+[2026-02-23 14:58:32] export: begin
+[2026-02-23 14:58:32] export: ok
+[2026-02-23 14:58:32] finished: status=pass fail_stage=none
